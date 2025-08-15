@@ -1,7 +1,7 @@
 # argentumjs
 # ArgentumJS - Framework Modular con Hapi.js
 
-![ArgentumJS Logo](/public/images/argentumjs.jpg)
+![ArgentumJS Logo]("https://github.com/nicoContigliani/argentumjs/blob/main/public/images/argentum.jpg?raw=true")
 
 ArgentumJS es un framework empresarial modular de alto rendimiento, construido sobre Hapi.js. Ofrece una base sólida para el desarrollo de aplicaciones robustas y escalables, con características esenciales preconfiguradas para la producción.
 
